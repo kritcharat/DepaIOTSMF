@@ -1,0 +1,2 @@
+# DepaIOTSMF
+Smartfarm with AI
